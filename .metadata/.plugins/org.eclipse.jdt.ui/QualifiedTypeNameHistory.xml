@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="com.demo.service.CountSort"/>
     <fullyQualifiedTypeName name="com.demo.service.SinglyLinkedList.Node"/>
+    <fullyQualifiedTypeName name="com.demo.service.Queue.Node"/>
 </qualifiedTypeNameHistroy>

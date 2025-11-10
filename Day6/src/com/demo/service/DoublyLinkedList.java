@@ -15,10 +15,6 @@ public class DoublyLinkedList {
 	public DoublyLinkedList() {
 		head=null;
 	}
-	
-	
-	
-	
 	public void addNode(int val) {
 		Node newNode=new Node(val);
 		if(head==null) {
