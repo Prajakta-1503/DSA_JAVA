@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="com.demo.service.Search"/>
     <fullyQualifiedTypeName name="com.demo.service.BubbleSort"/>
     <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
-    <fullyQualifiedTypeName name="com.demo.service.TwoDArrayService"/>
     <fullyQualifiedTypeName name="com.demo.service.QuickSort"/>
     <fullyQualifiedTypeName name="com.demo.service.InsertionSort"/>
     <fullyQualifiedTypeName name="com.demo.service.SelectionSort"/>
@@ -11,4 +10,5 @@
     <fullyQualifiedTypeName name="com.demo.service.CountSort"/>
     <fullyQualifiedTypeName name="com.demo.service.SinglyLinkedList.Node"/>
     <fullyQualifiedTypeName name="com.demo.service.Queue.Node"/>
+    <fullyQualifiedTypeName name="com.demo.service.TwoDArrayService"/>
 </qualifiedTypeNameHistroy>
